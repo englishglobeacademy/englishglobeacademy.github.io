@@ -459,6 +459,11 @@ textarea {
 	align-items: center;
 }
 
+footer .container {
+	padding: 0;
+	margin-top: 10px;
+}
+
 .newsletter {
 	padding-top: 120px;
 	padding-bottom: 50px;
