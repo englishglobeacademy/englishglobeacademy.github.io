@@ -48,7 +48,7 @@ img {
 
 .yellow-box {
 	color: black;
-	background-color: #fdc609;
+	background-color: #f49947;
 	padding: 10px 10px 17px 10px;
 	overflow: hidden;
 	font-size: 19px;
@@ -91,11 +91,11 @@ img {
 }
 
 .nav ul li a:hover {
-	color: #D0A1F2;
+	color: #d5b0f0;
 }
 
 .active {
-	color: #D0A1F2 !important;
+	color: #d5b0f0 !important;
 }
 
 .bg {
@@ -145,19 +145,19 @@ img {
 }
 
 .purple {
-	background-color: #d0a1f2;
+	background-color: #d5b0f0;
 	color: black;
 	padding: 0px 41px 41px 41px;
 }
 
 .yellow {
-	background-color: #fdc609;
+	background-color: #ffe179;
 	color: black;
 	padding: 205px 41px 41px 41px;
 }
 
 .red {
-	background-color: #ff5937;
+	background-color: #f4b178;
 	color: black;
 	padding: 205px 41px 41px 41px;
 }
@@ -208,8 +208,8 @@ img {
 }
 
 .black-box a {
-	background-color: #d0a1f2;
-	border: 1px solid #d0a1f2;
+	background-color: #d5b0f0;
+	border: 1px solid #d5b0f0;
 	color: black;
 	text-decoration: none;
 	font-size: 14px;
@@ -224,7 +224,7 @@ img {
 }
 
 .red-sec {
-	background-color: #ff5937;
+	background-color: #f4b178;
 	color: black;
 	padding: 60px 100px;
 	text-align: center;
@@ -255,7 +255,7 @@ img {
 }
 
 .second {
-	background-color: #d0a1f2;
+	background-color: #d5b0f0;
 }
 
 .scontent {
@@ -311,7 +311,7 @@ img {
 }
 
 .about .text-col {
-	background-color: #ff5937;
+	background-color: #f4b178;
 	color: black;
 	text-align: center;
 	padding: 30px 70px
@@ -323,7 +323,6 @@ img {
 }
 
 .about p {
-	color: white;
 	text-align: left;
 	line-height: 24px;
 }
@@ -371,7 +370,7 @@ img {
 }
 
 .contact {
-	background-color: #d0a1f2;
+	background-color: #d5b0f0;
 	color: black;
 	margin-top: 60px;
 	padding: 60px 0px;
@@ -407,11 +406,11 @@ img {
 }
 
 .tbox:hover {
-	border-color: #fdc609
+	border-color: #ffe179
 }
 
 .tbox:focus {
-	border-color: #fdc609
+	border-color: #ffe179
 }
 
 ::placeholder {
@@ -516,12 +515,12 @@ footer .container {
 }
 
 .sbtn:hover {
-	background-color: #d0a1f2;
+	background-color: #d5b0f0;
 	color: black;
 }
 
 .cp {
-	background-color: #ff5937;
+	background-color: #f4b178;
 	text-align: center;
 	color: black;
 	padding: 15px;
