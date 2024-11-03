@@ -224,7 +224,7 @@ img {
 }
 
 .red-sec {
-	background-color: #f4b178;
+	background-color: #ffe179;
 	color: black;
 	padding: 60px 100px;
 	text-align: center;
@@ -370,9 +370,8 @@ img {
 }
 
 .contact {
-	background-color: #d5b0f0;
+	background-color: #f4b178;
 	color: black;
-	margin-top: 60px;
 	padding: 60px 0px;
 }
 
@@ -383,7 +382,7 @@ img {
 }
 
 .contact .line {
-	width: 110px;
+	width: 210px;
 	margin: 0px auto;
 }
 
